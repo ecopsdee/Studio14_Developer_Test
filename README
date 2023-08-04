@@ -1,0 +1,41 @@
+This Repo is the answer to the test describw below.
+
+Studio	14	- Developer	Test
+The	tech	test	is	a	programming	exercise	to	evaluate	the	candidate	technical	skills	and	approach	to	software	development.	The	candidate	is	expected	to	produce	a	solution	in	code
+that	demonstrates	they	understand	how	to	solve	the	problem	using	clear	concise	code.
+
+When	completing	the	technical	test	please	do:
+  • Include	instructions	on	how	to	run	the	code
+  • Keep	it	simple
+  • Include	instructions	on	how	to	run	the	code
+  • Return	the	(zipped)	solution	within	72	hours	by	email	to tobi@studio14online.co.uk	(or	a	link	to	a	Google drive	folder	with	the	zipped	solution)
+  • Ask	any	questions	by	emailing	the	above	address
+  • Use	any	programming	language	to	solve	the	problem
+Please	don’t:
+  • Build	a	UI	- the	focus	of	the	test	is	on	the	technical	solution	and	not	the	interface
+  • Spend	too	much	time- the	important	thing	is	that	we	understand	your	approach,your way	of	thinking	and	your	use of software	engineering	best	practices
+  • Feel	the	need	to	cover	every	edge	case
+  • Write	more	than	200-300	lines	of	code!	It’s possible	to	produce	quite	lean	solutions
+
+SpaceX	Odyssey
+SpaceX	runs	a	futuristic	space	travel	system	within	our	solar	system	with	payments	done	with	bitcoin	currency	(BTC) wallet	system.	They	have	2	rockets:	Falcon	1	and	Falcon	9
+
+You	are	required	to	model	the	following	fare	wallet	system.	At	the	end	of	the	test,	you	should	be	able	to	demonstrate	a	user	loading	a	wallet	with	3000BTC,	and	taking	the
+following	trips,	and	then viewing	the	balance.
+  - Taking	the	Falcon	9	from	Abuja	station	to	the	Moon
+  - Taking	the	Falcon	1	from	the	Moon	to	Spock	station	on	Mars
+  - Taking	the	Falcon	9	from	Mars	to	the	International	Space	Station	(ISS)	in	Lower	Earth.
+The	Falcon	9	is	a	luxury	spacecraft	with	better	experience.	Its	passengers	pay	twice	the	fare	of	the	Falcon	1
+
+Stations	and	Orbits:
+  Station                        Type       Orbit
+  Abuja                          Natural    Earth
+  Spock                          Natural    Mars
+  International	Space	Station    Manmade    Earth
+  Moon                           Natural    Earth
+
+Fares:
+  Journey                                                                       Fare
+  Anytime	you	cross	from	one	orbit	to	another	on	Falcon	1                   250BTC
+  Royalty	when	landing	on	man	made	stations	(satellites)	on	any	rocket    200BTC
+  Journey	between	two	points	in	an	orbit	on	Falcon	1                       50BT
